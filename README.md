@@ -1,2 +1,2 @@
-# freeze.enterprises
-By TeclanC
+# freeze-enterprises
+by TeclanC
