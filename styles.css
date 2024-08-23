@@ -321,7 +321,7 @@ hr{
   max-width: 1200px;
 }
 
-.install, .repair, .general{
+.install, .repair, {
   width: 260px;
   height: 60px;
   background-color: #00000060;
@@ -333,7 +333,6 @@ hr{
   margin-top: 10px;
   overflow: visible;
 }
-
 
 .install p a, .repair p a, .general p a{
   background-color: #00000000;
@@ -782,7 +781,7 @@ justify-content:space-around;
   }  
   
   
-  .install, .repair, .general{
+  .install, .repair{
     width: 120px;
     height: 35px;
     float:initial;
@@ -790,6 +789,17 @@ justify-content:space-around;
     margin-right: auto;
     margin-top: 5px;
     font-size: 18px;
+    display: block;
+  }
+
+  .general{
+    width: 140px;
+    height: 35px;
+    float:initial;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    font-size: 14px;
     display: block;
   }
   
