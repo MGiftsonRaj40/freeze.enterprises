@@ -483,7 +483,7 @@ justify-content: space-around;
 }
 
 
-@media only screen and (max-width: 400px) {
+@media (max-width: 450px), (max-device-width: 450px) and (-webkit-min-device-pixel-ratio: 2) {
   body {
     height: 100%;
     width: 100%;
