@@ -321,7 +321,7 @@ hr{
   max-width: 1200px;
 }
 
-.install, .repair, {
+.install, .repair, .general {
   width: 260px;
   height: 60px;
   background-color: #00000060;
