@@ -617,7 +617,7 @@ display: flex;
 justify-content:space-around;
 }
 
-@media (max-width: 400px), (max-device-width: 400px) and (-webkit-min-device-pixel-ratio: 2) {
+@media (max-width: 450px), (max-device-width: 450px) and (-webkit-min-device-pixel-ratio: 2) {
   body {
     height: 100%;
     width: 100%;
